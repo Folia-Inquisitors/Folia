@@ -634,7 +634,7 @@ index 6f483c6581daeaf68f85e3b730d31c5b7a6ae001..d318230f7f322ca3fd681e44307b9a27
                  this.server.getPlayerList().loadSpawnForNewPlayer(this.connection, s, data, lastKnownName, toComplete);
                  // Folia end - region threading - rewrite login process
 diff --git a/src/main/java/net/minecraft/server/players/PlayerList.java b/src/main/java/net/minecraft/server/players/PlayerList.java
-index ffb5332310e9b2d10292fe01c37fd48552fedffc..fb8820d0b3542314822f92e3c6c6e63bf6e61cc4 100644
+index 6cce2a9bc9beeeef25b7bacd2ad307ed3ae44432..fb8820d0b3542314822f92e3c6c6e63bf6e61cc4 100644
 --- a/src/main/java/net/minecraft/server/players/PlayerList.java
 +++ b/src/main/java/net/minecraft/server/players/PlayerList.java
 @@ -339,10 +339,10 @@ public abstract class PlayerList {
