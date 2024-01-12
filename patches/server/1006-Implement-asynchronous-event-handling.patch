@@ -1683,7 +1683,7 @@ index 723ae4b75c84fe952377c02d42cf7a710f7047ea..53036885edbd37f6eeac633b3f9f1172
  
      // Paper start - implement pointers
 diff --git a/src/main/java/org/bukkit/craftbukkit/entity/CraftEntity.java b/src/main/java/org/bukkit/craftbukkit/entity/CraftEntity.java
-index 19b47478d318edce1242c2a5ddd73da963a24595..381aca35372b7e38af58220172036c9d5a64e348 100644
+index 690e57b55adb53d56d874cbddec6226a515f43a2..381aca35372b7e38af58220172036c9d5a64e348 100644
 --- a/src/main/java/org/bukkit/craftbukkit/entity/CraftEntity.java
 +++ b/src/main/java/org/bukkit/craftbukkit/entity/CraftEntity.java
 @@ -7,6 +7,8 @@ import com.google.common.collect.Lists;
