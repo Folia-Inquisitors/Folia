@@ -651,7 +651,7 @@ index 6cce2a9bc9beeeef25b7bacd2ad307ed3ae44432..fb8820d0b3542314822f92e3c6c6e63b
  
          player.spawnIn(worldserver1);
 diff --git a/src/main/java/net/minecraft/world/entity/Entity.java b/src/main/java/net/minecraft/world/entity/Entity.java
-index ee15661227754149164893d6acf678d13b2e1b27..d952fc150d1cf4358f3f1b2867514dfb1540ce42 100644
+index dd18591d7928ab04f6f7c09aa89a26ccbe20c323..d952fc150d1cf4358f3f1b2867514dfb1540ce42 100644
 --- a/src/main/java/net/minecraft/world/entity/Entity.java
 +++ b/src/main/java/net/minecraft/world/entity/Entity.java
 @@ -1,5 +1,6 @@
