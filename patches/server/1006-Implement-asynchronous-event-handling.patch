@@ -334,7 +334,7 @@ index 531aa50f2c84e13358e8918bb0c15ea3cd036cb5..3a7dbcb9964723b8ed5e6b0a1ee42679
      private static String substr(String val, String prefix, int from) {
          int idx = val.indexOf(prefix, from) + prefix.length();
 diff --git a/src/main/java/io/papermc/paper/threadedregions/TickRegionScheduler.java b/src/main/java/io/papermc/paper/threadedregions/TickRegionScheduler.java
-index ee9f5e1f3387998cddbeb1dc6dc6e2b1ea7cd670..7471acb1f49c0be9d1043885c34ecbf818df33df 100644
+index 150610d7bf25416dbbde7f003c47da562acc68ba..7471acb1f49c0be9d1043885c34ecbf818df33df 100644
 --- a/src/main/java/io/papermc/paper/threadedregions/TickRegionScheduler.java
 +++ b/src/main/java/io/papermc/paper/threadedregions/TickRegionScheduler.java
 @@ -7,14 +7,17 @@ import io.papermc.paper.util.TickThread;
