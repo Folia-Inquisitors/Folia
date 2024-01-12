@@ -524,7 +524,7 @@ index 531aa50f2c84e13358e8918bb0c15ea3cd036cb5..47f5767f5720c63862475aba25fd4f56
          BlockPos.MutableBlockPos blockposition_mutableblockposition = centerPos.mutable();
          org.bukkit.craftbukkit.util.BlockStateListPopulator blockList = new org.bukkit.craftbukkit.util.BlockStateListPopulator(world); // CraftBukkit
 diff --git a/src/main/java/net/minecraft/server/network/ServerLoginPacketListenerImpl.java b/src/main/java/net/minecraft/server/network/ServerLoginPacketListenerImpl.java
-index 75b1877f8c3e4da3183437f327ef3376fd0a3c21..d318230f7f322ca3fd681e44307b9a27a2424192 100644
+index 6f483c6581daeaf68f85e3b730d31c5b7a6ae001..d318230f7f322ca3fd681e44307b9a27a2424192 100644
 --- a/src/main/java/net/minecraft/server/network/ServerLoginPacketListenerImpl.java
 +++ b/src/main/java/net/minecraft/server/network/ServerLoginPacketListenerImpl.java
 @@ -1,5 +1,6 @@
