@@ -319,7 +319,7 @@ index 0000000000000000000000000000000000000000..a4259021b39b52f15d6bfc200e3c568e
 +
 +}
 diff --git a/src/main/java/io/papermc/paper/threadedregions/ThreadedRegionizer.java b/src/main/java/io/papermc/paper/threadedregions/ThreadedRegionizer.java
-index 72a2b81a0a4dc6aab02d0dbad713ea882887d85f..a556035631f1bc573985168892cb33fd4ad09118 100644
+index 531aa50f2c84e13358e8918bb0c15ea3cd036cb5..3a7dbcb9964723b8ed5e6b0a1ee4267923c746e4 100644
 --- a/src/main/java/io/papermc/paper/threadedregions/ThreadedRegionizer.java
 +++ b/src/main/java/io/papermc/paper/threadedregions/ThreadedRegionizer.java
 @@ -73,6 +73,10 @@ public final class ThreadedRegionizer<R extends ThreadedRegionizer.ThreadedRegio
